@@ -1,9 +1,38 @@
-// Lista de anuncios en formato mp4 o webm
+// Lista de anuncios en formato mp4 y webm desde el repositorio
 const ads = [
-  'https://example.com/ad1.mp4',
-  'https://example.com/ad2.webm',
-  'https://example.com/ad3.mp4',
-  'https://example.com/ad4.webm',
+  // 10sec
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/10sec/Geronimo%20stilton%20Libro%209.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/10sec/Sunny%20Sport.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/10sec/salchichas%20rellenas%20de%20ketchup.mp4',
+  
+  // 15sec
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/ALDI%20Frescos%2015sec.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/Uno.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/papeleo%20lobato%2015sec.webm',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/pareja%20lobato%2015sec.webm',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/zyclone.mp4',
+  
+  // 20sec
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Anuncio%20Prima.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Argui%C3%B1ano%20Lidl%20pescado%2020sec.webm',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Dinosaurios%20Cuchara.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Kirbi%20Robots.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Lidl%20Argui%C3%B1ano%20Embutidos.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Pokemon%20Mundo%20Misterioso.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Super%204.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20basico%2020sec.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20knock%2020sec.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20snap%2020sec.mp4',
+  
+  // 30sec
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/30sec/Anuncio%20IONOS.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/30sec/Mario%20y%20Sonic%20Rio%202016.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/30sec/TELEFONICA%20JOSELITO.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/30sec/Yokai%20Watch.mp4',
+  
+  // 60sec
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/60sec/Anuncio%20Verisure.mp4',
+  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/60sec/The%20Last%20Of%20Us.mp4',
 ];
 
 export default function handler(req, res) {
