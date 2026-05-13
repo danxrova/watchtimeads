@@ -9,7 +9,6 @@ const ads = [
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/ALDI%20Frescos%2015sec.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/Uno.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/papeleo%20lobato%2015sec.webm',
-  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/pareja%20lobato%2015sec.webm',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/15sec/zyclone.mp4',
   
   // 20sec
@@ -18,11 +17,8 @@ const ads = [
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Dinosaurios%20Cuchara.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Kirbi%20Robots.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Lidl%20Argui%C3%B1ano%20Embutidos.mp4',
-  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Pokemon%20Mundo%20Misterioso.mp4',
-  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/Super%204.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20basico%2020sec.mp4',
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20knock%2020sec.mp4',
-  'https://raw.githubusercontent.com/danxrova/watchtimeads/main/20sec/lobato%20snap%2020sec.mp4',
   
   // 30sec
   'https://raw.githubusercontent.com/danxrova/watchtimeads/main/30sec/Anuncio%20IONOS.mp4',
